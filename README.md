@@ -14,8 +14,6 @@ Known for a proactive approach, team collaboration, and a keen interest in emerg
 
 ## Skills and Technologies 💻
 
-## Skills and Technologies 🛠️
-
 ### Languages
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
